@@ -9,3 +9,7 @@ Målet med hemsidan är att visa upp och beskriva produkterna på ett sätt där
 Vi påbörjade våran moodboard och la in bilder som vi skulle ha som inspiritation till vår hemsida. 
 Vi kom även fram till en färg palett och ett typsnitt som vi ska använda. 
 Vi bestämmde oss också för att ändra loggan eftersom vi inte fann den bra eller estetiskt tilltalande. 
+
+## Vecka 10
+
+Vi har valt nya bättre färger och arbetat mer på våran grafiska profil
