@@ -12,4 +12,4 @@ Vi bestämmde oss också för att ändra loggan eftersom vi inte fann den bra el
 
 ## Vecka 10
 
-Vi har valt nya bättre färger och arbetat mer på våran grafiska profil
+Vi har valt nya bättre färger och gjort en grafiska profil. 
