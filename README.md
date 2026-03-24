@@ -14,6 +14,6 @@ Vi bestämmde oss också för att ändra loggan eftersom vi inte fann den bra el
 
 Vi har valt nya bättre färger och gjort en grafiska profil. 
 
-## Vecka 11 / 12
+## Vecka 12
 
 Vi gjorde en wireframe på alla sidor och en sitemap. 
