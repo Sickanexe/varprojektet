@@ -17,3 +17,7 @@ Vi har valt nya bättre färger och gjort en grafiska profil.
 ## Vecka 12
 
 Vi gjorde en wireframe på alla sidor och en sitemap. 
+
+## Vecka 13 
+
+Vi gjorde en bootstrap fil med alla våra färger och typsnitt. 
