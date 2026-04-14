@@ -20,8 +20,12 @@ Vi gjorde en wireframe på alla sidor och en sitemap.
 
 ## Vecka 13 
 
-Vi gjorde en bootstrap fil med alla våra färger och typsnitt. 
+Vi gjorde en bootstrap fil med alla våra färger och typsnitt.
 
 ## Vecka 14
 
 Vi började programera våra olika sidor vi behöver i våran wireframe. Just nu är det mer av test sidor för att se hur det ser ut i praktiken men inget färdigt. 
+
+## Vecka 16
+
+Vi gjorde klart alla hemsidor vi behöver från våran wireframe men vi kan förbättra dom mer. 
