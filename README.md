@@ -29,3 +29,7 @@ Vi började programera våra olika sidor vi behöver i våran wireframe. Just nu
 ## Vecka 16
 
 Vi gjorde klart alla hemsidor vi behöver från våran wireframe men vi kan förbättra dom mer. 
+
+## Vecka 17
+
+Vi har finat till våra hemsidor och fixat så att mail formuläret faktiskt skickar ett mail till oss. 
