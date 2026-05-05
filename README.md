@@ -33,3 +33,7 @@ Vi gjorde klart alla hemsidor vi behöver från våran wireframe men vi kan för
 ## Vecka 17
 
 Vi har finat till våra hemsidor och fixat så att mail formuläret faktiskt skickar ett mail till oss. 
+
+## Vecka 19 
+
+Vi har gjort små fix på våran hemsida efter att vi har kört den genom tester, vi har även börjat planera användar tester. 
