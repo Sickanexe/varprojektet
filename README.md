@@ -37,3 +37,7 @@ Vi har finat till våra hemsidor och fixat så att mail formuläret faktiskt ski
 ## Vecka 19 
 
 Vi har gjort små fix på våran hemsida efter att vi har kört den genom tester, vi har även börjat planera användar tester. 
+
+## Vecka 20
+
+Vi har fixat menyn i våran header på hemsidan så att den funkar på alla upplösningar och mobiler. Vi har även fixat mer små problem. Vi har även genomfört mer tester och förberett mer inför användar tester
